@@ -7,6 +7,10 @@ Lonely Coder
       `Y888Y'
         `Y'
 
+Problem "status="
+------------------
+Need to find where the status= method is being called. What should the method be instead?     
+
 Lonely coder seeks nice boy
 -----------------------------
     require 'lonely_coder'
